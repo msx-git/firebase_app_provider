@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286873663962",
+    "project_id": "fb-auth-provider-c2eb5",
+    "storage_bucket": "fb-auth-provider-c2eb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286873663962:android:9c3fad64bac6faab4c28e3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286873663962-as1upgp458dq6l879vssgq9g2th9v6le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXEpi40E_50cawy2EWBiZlL1oUGq9Nz8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286873663962-as1upgp458dq6l879vssgq9g2th9v6le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
